@@ -1,0 +1,16 @@
+@font-face {
+  font-family: 'Bebas Neue';
+  src: url("../assets/fonts/BebasNeue/BebasNeue-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Sora';
+  src: url('../assets/fonts/Sora/Sora-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
